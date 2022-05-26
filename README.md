@@ -17,8 +17,8 @@ Simple responcive QR-code page
 
 ### Screenshot
 
-![](./screenshot/desktop-view.png)
-![](./screenshot/mobile-view.png)
+![](./screenshots/desktop-view.png)
+![](./screenshots/mobile-view.png)
 
 ### Links
 
