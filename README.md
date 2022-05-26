@@ -22,7 +22,7 @@ Simple responcive QR-code page
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link to the page](https://qr-code-component-3ou.pages.dev/)
 
 ### Built with
 
