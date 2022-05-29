@@ -8,21 +8,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
 
-Simple responcive QR-code page
+QR code component
 
 ### Screenshot
 
+Desktop View
 ![](./screenshots/desktop-view.png)
+
+Mobile View (width 375px)
 ![](./screenshots/mobile-view.png)
 
 ### Links
 
-- Live Site URL: [Link to the page](https://qr-code-component-3ou.pages.dev/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-page-using-css-grid-and-flex-box-HEAX1zjvQm)
+- Live Site URL: [Live site URL here](https://qr-code-component-3ou.pages.dev/)
 
 ### Built with
 
@@ -30,10 +33,6 @@ Simple responcive QR-code page
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-### What I learned
-
-Working with responsive layouts in CSS3.
 
 ## Author
 
